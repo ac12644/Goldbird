@@ -1,0 +1,39 @@
+
+
+.intro > p {
+    padding-left: 10px;
+    font-weight: 800;
+    font-size: medium;
+    color: #324856;
+}
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.child{
+    padding-bottom: -30px;
+    text-decoration: none;
+    flex-direction: column;
+}
+
+.material_icons{
+    margin-right: 5px;
+    
+}
+
+.child > a{
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: 400;
+    padding-right: 10px;
+}
+.about_company{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+    font-size: small;
+    font-weight: 500;
+   
+}
